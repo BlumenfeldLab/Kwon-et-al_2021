@@ -1,0 +1,2 @@
+mris_ca_label -l fsaverage/label/lh.cortex.label ./fsaverage lh fsaverage/surf/lh.sphere.reg ./lh.DKTatlas40.gcs ./lh.aparc.DKTatlas40.annot
+mris_ca_label -l fsaverage/label/rh.cortex.label ./fsaverage rh fsaverage/surf/rh.sphere.reg ./rh.DKTatlas40.gcs ./rh.aparc.DKTatlas40.annot
