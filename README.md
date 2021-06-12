@@ -2,7 +2,7 @@
 This includes the code files used for the analysis **"Early Cortical Signals in Visual Stimulus Detection"** - Kwon et al., 2021.
 
 ## Summary
-A detailed description of all methods used in the paper is given in the Methods section of the manuscript. If you have further questions regarding this paper, we encourage you to contact Dr. Hal Blumenfeld
+A detailed description of all methods used in the paper is given in the Methods section of the manuscript. If you have further questions regarding this paper, we encourage you to contact Dr. Hal Blumenfeld(hal.blumenfeld@yale.edu)
 
 ## Software
 
