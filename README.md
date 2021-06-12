@@ -7,8 +7,7 @@ A detailed description of all methods used in the paper is given in the Methods 
 ## Software
 1.	GammaPowerExtraction_preprocessing.m – Including steps: extracting icEEG signal and information from raw data, artifact rejection and z-scored gamma power calculation.
 2.	MappingGammaPower2Surface.m - Mapping z-scored gamma power to the brain surface.
-3.	PipelineForPermutationTest.m - Cluster-based statistics for icEEG data set
-a.	clust_perm1.m function in matlabmk Toolbox ( http://kutaslab.ucsd.edu/matlabmk_fn_docs ) was modified for the icEEG data set.
+3.	PipelineForPermutationTest.m - Cluster-based statistics: clust_perm1.m function in matlabmk Toolbox ( http://kutaslab.ucsd.edu/matlabmk_fn_docs ) was modified for the icEEG data set.
 4.	ROIAnalysis.m 
 
 ## Data
