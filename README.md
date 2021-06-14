@@ -11,4 +11,4 @@ A detailed description of all methods used in the paper is given in the Methods 
 4.	ROIAnalysis.m 
 
 ## Data
-If you have any questions about request access to the RAM data set, please email kahana-requests@sas.upenn.edu or visit http://memory.psych.upenn.edu/Data_Request
+Data used in this study are from the free-recall task in the RAM project, and are publicly available from http://memory.psych.upenn.edu/Data_Request.
